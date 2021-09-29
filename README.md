@@ -13,7 +13,7 @@ This repository contains further details about the qualitative analysis performe
 <a id="disclaimer"></a>
 ### Disclaimer
 
-The goal of this documentation is to just hold a brief summary of the sentences that the translator has classified with respect to complexity and errors, and the reason behind the classification. Only a sentence per complexity level is available here (4 sentences). If the reader is looking for more examples, please check [this spreadsheet](https://docs.google.com/spreadsheets/d/1LOYKcWYwHbLAuI8vAg0Fp0MDz-TtXzutwlmptLyd3_Q/edit#gid=1620985044).
+The goal of this documentation is to just hold a brief summary of the sentences that the translator has classified with respect to complexity and errors, and the reason behind the classification. Only a sentence per complexity level is available here (4 sentences). If the reader is looking for more examples, please check [this spreadsheet](https://docs.google.com/spreadsheets/d/1LOYKcWYwHbLAuI8vAg0Fp0MDz-TtXzutwlmptLyd3_Q/edit#gid=1133528615).
 
 <a id="error-descriptions"></a>
 ## Error descriptions
